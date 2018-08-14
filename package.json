@@ -1,0 +1,25 @@
+{
+  "name": "katiba",
+  "version": "1.0.0",
+  "description": "katiba bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/effysetumeni/katiba.git"
+  },
+  "author": "effy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/effysetumeni/katiba/issues"
+  },
+  "homepage": "https://github.com/effysetumeni/katiba#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }, 
+  "scripts":{
+    "start": "node index.js"
+  }
+}
